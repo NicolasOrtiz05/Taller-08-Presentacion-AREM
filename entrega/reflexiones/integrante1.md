@@ -1,31 +1,30 @@
 # 🙋‍♂️ Reflexión Individual
 
 ## 👤 Nombre del Estudiante
-_Escriba su nombre completo aquí._
+_Nicolas Stiven Ortiz Cortes_
 
 ## 💼 Rol en el equipo
-_Describa el rol principal que desempeñó en el desarrollo del proyecto arquitectónico._
-(Ej: modelador BPMN, responsable del análisis STRIDE, encargado del modelado de datos, presentador del equipo, etc.)
+_Participé como responsable de automatización y modelado arquitectónico, apoyando la documentación de vistas, la definición de la solución tecnológica y la preparación de la presentación ejecutiva del equipo. Además, integré los elementos técnicos para asegurar coherencia en el diseño final._
 
 ## 🎓 Aprendizajes Clave
 
-- 📌 Aprendí a [ejemplo: estructurar procesos usando BPMN con base en un proceso real del cliente].
-- 💡 Comprendí mejor [ejemplo: cómo una arquitectura bien diseñada facilita la toma de decisiones técnicas].
-- ⚙️ Practiqué habilidades como [ejemplo: trabajo en equipo, modelado visual, documentación técnica].
+- 📌 Aprendí a estructurar procesos reales y traducirlos a vistas arquitectónicas, entendiendo cómo se relacionan datos, aplicaciones y automatización..
+- 💡 Comprendí mejor cómo la arquitectura empresarial ayuda a identificar brechas y justificar soluciones basadas en tecnología y gobierno de datos.
+- ⚙️ Practiqué habilidades como documentación técnica, análisis de flujos, automatización con Power Automate, síntesis de información y trabajo colaborativo.
 
 ## 🔄 Retos Superados
 
-- Tuve dificultades con [ejemplo: representar correctamente los flujos del sistema en C4], pero logré superarlo mediante [ejemplo: consultas al docente, revisión de ejemplos reales, uso de draw.io].
-- Aprendí que es importante [ejemplo: validar los supuestos del cliente antes de modelar].
+- Al inicio tuve dificultades con organizar la información del cliente y representar adecuadamente la solución en diferentes vistas, pero lo superé mediante revisión de plantillas, análisis del material del curso y reuniones internas del equipo.
+- Aprendí que es importante alinear constantemente lo que se modela con los requerimientos reales del cliente para evitar suposiciones incorrectas.
 
 ## 🌱 Áreas por Mejorar
 
-- Me gustaría reforzar mi conocimiento en [ejemplo: modelado de infraestructura o evaluación de riesgos].
-- Reconozco que debo mejorar [ejemplo: mi gestión del tiempo para cumplir con entregas parciales].
+- Me gustaría reforzar mi conocimiento en modelos de seguridad (como STRIDE) y arquitecturas más profundas de infraestructura.
+- Reconozco que debo mejorar mi capacidad de síntesis para comunicar elementos arquitectónicos de forma más visual y clara.
 
 ## 🧠 Contribución Personal
 
-Siento que mi mayor aporte al equipo fue [ejemplo: organizar las vistas, integrar los diagramas, validar la coherencia entre los entregables].
+Siento que mi mayor aporte al equipo fue integrar los componentes de la arquitectura propuesta, apoyar la automatización en Power Automate, y asegurar consistencia entre las vistas, recomendaciones y narrativa del proyecto. También ayudé a darle claridad a la presentación final, alineando el mensaje con las necesidades del cliente.
 
 ---
 
