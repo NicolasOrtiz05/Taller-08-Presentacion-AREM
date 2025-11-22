@@ -41,6 +41,7 @@ El uso de vistas empresariales (procesos, datos, aplicaciones, infraestructura, 
 Así mismo, el tener en cuenta el marco regulador, en particular la Política Institucional de Protección de Datos, subrayó la importancia de idear soluciones que no solo solucionen cuestiones técnicas, sino que además aseguren la salvaguarda de la información y el cumplimiento de las leyes. Esto confirma la función de la arquitectura empresarial como nexo entre la estrategia institucional, las normas y la tecnología.
 
 Finalmente, este ejercicio fortaleció competencias clave del equipo: pensamiento crítico, capacidad de análisis estructurado, diseño de soluciones escalables, comunicación ejecutiva y trabajo colaborativo. El resultado es una propuesta sólida, sostenible y que se ajusta a los requerimientos del cliente, demostrando que la arquitectura empresarial es una herramienta esencial para la innovación y el progreso constante en una organización.
+
 ---
 
 _Este resumen ejecutivo forma parte de la entrega final del curso AREM - Arquitectura Empresarial - Universidad de La Sabana._
