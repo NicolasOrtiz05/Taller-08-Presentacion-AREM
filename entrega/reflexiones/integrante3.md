@@ -1,4 +1,4 @@
-#🙋‍♂️ Reflexión Individual
+# 🙋‍♂️ Reflexión Individual
 ## 👤 Nombre del Estudiante
 
 Edwin Alejandro Gutierrez Rodriguez
