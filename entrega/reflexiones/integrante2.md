@@ -1,31 +1,32 @@
 # 🙋‍♂️ Reflexión Individual
 
 ## 👤 Nombre del Estudiante
-_Escriba su nombre completo aquí._
+Samuel Espitia Cruz
 
 ## 💼 Rol en el equipo
-_Describa el rol principal que desempeñó en el desarrollo del proyecto arquitectónico._
-(Ej: modelador BPMN, responsable del análisis STRIDE, encargado del modelado de datos, presentador del equipo, etc.)
+Mi rol principal dentro del proyecto arquitectónico fue analista del negocio y responsable de gran parte del desarrollo del flujo de automatización. Me enfoqué en comprender a profundidad el proceso del área de gestión de bienes y servicios de la Universidad de La Sabana, identificando los puntos de dolor y proponiendo soluciones. Además, lideré la investigación, exploración y configuración de distintas herramientas que podían apoyar la solución, siendo Power Automate la tecnología clave utilizada para reducir actividades repetitivas y estructurar mejor la información. Junto con mi equipo, participé activamente en la elaboración de las vistas arquitectónicas, asegurando que reflejaran de manera coherente tanto la situación actual como la propuesta futura.
 
 ## 🎓 Aprendizajes Clave
 
-- 📌 Aprendí a [ejemplo: estructurar procesos usando BPMN con base en un proceso real del cliente].
-- 💡 Comprendí mejor [ejemplo: cómo una arquitectura bien diseñada facilita la toma de decisiones técnicas].
-- ⚙️ Practiqué habilidades como [ejemplo: trabajo en equipo, modelado visual, documentación técnica].
+- 📌 Aprendí a analizar procesos reales de negocio, identificar procesos que pueden ser realizados de manera más eficiente y proponer soluciones alineadas con las necesidades del cliente.
+- 💡 Practiqué habilidades de comunicación y relacionamiento con clientes, validando supuestos, comprendiendo mejor sus necesidades y asegurando que las soluciones propuestas respondieran a su contexto.
+- ⚙️ Comprendí cómo las vistas arquitectónicas permiten visualizar tanto la situación actual como la propuesta futura, facilitando la toma de decisiones técnicas y de negocio, y sirviendo además como un medio de comunicación entre el equipo y los stakeholders.
 
 ## 🔄 Retos Superados
 
-- Tuve dificultades con [ejemplo: representar correctamente los flujos del sistema en C4], pero logré superarlo mediante [ejemplo: consultas al docente, revisión de ejemplos reales, uso de draw.io].
-- Aprendí que es importante [ejemplo: validar los supuestos del cliente antes de modelar].
+- Tuve dificultades con el modelado de procesos complejos y no lineales en el diagrama BPMN o de procesos para el cliente, ya que era necesario representar múltiples interacciones y excepciones sin perder claridad en los diagramas. Lo superé mediante la revisión de ejemplos, el uso de los apuntes del profesor y la validación constante tanto con el equipo como directamente con el docente, asegurando que los modelos fueran comprensibles.
+
+- Encontré dificil entender la infraestructura y el funcionamiento de los sistemas utilizados en el área de gestión de bienes y servicios, ya que los responsables del proceso no eran expertos en la arquitectura, únicamente en usar los servicios que requerían. Lo superé mediante la observación directa de cómo ejecutaban sus actividades y el uso de preguntas guiadas.
 
 ## 🌱 Áreas por Mejorar
 
-- Me gustaría reforzar mi conocimiento en [ejemplo: modelado de infraestructura o evaluación de riesgos].
-- Reconozco que debo mejorar [ejemplo: mi gestión del tiempo para cumplir con entregas parciales].
+- Una de las áreas de mejora que identifiqué, es la necesidad de establecer las expectativas del cliente desde el inicio, ya que en este proyecto ellos esperaban implementar una solución de inmediato y fue necesario aclarar que el objetivo era desde la vista arquitectónica generar una propuesta.
+
+- Debo mejorar en la integración de las distintas vistas arquitectónicas realizadas en clase. Aunque entiendo cómo elaborarlas por separado, aún me resulta complejo conectarlas entre sí para que reflejen de manera conjunta tanto los procesos de negocio como la arquitectura técnica.
 
 ## 🧠 Contribución Personal
 
-Siento que mi mayor aporte al equipo fue [ejemplo: organizar las vistas, integrar los diagramas, validar la coherencia entre los entregables].
+Mi principal contribución al proyecto fue comprender en detalle los procesos del área de gestión de bienes y servicios, identificando sus dinámicas, puntos de mejora y las necesidades reales de los usuarios. A partir de ese análisis, aporté en la construcción técnica de la solución mediante el diseño y configuración de un flujo en Power Automate, lo que permitió transformar los hallazgos en un MVP funcional para validar la propuesta.
 
 ---
 
