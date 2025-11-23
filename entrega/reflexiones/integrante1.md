@@ -4,7 +4,7 @@
 _Nicolas Stiven Ortiz Cortes_
 
 ## 💼 Rol en el equipo
-_Participé como responsable de automatización y modelado arquitectónico, apoyando la documentación de vistas, la definición de la solución tecnológica y la preparación de la presentación ejecutiva del equipo. Además, integré los elementos técnicos para asegurar coherencia en el diseño final._
+_Participé en el modelado arquitectónico, apoyando la documentación de vistas, la definición de la solución tecnológica y la preparación de la presentación ejecutiva del equipo. Además, integré los elementos técnicos para asegurar coherencia en el diseño final y me encargué de dar claridad a la narrativa del proyecto con respecto a las necesidades del cliente._
 
 ## 🎓 Aprendizajes Clave
 
