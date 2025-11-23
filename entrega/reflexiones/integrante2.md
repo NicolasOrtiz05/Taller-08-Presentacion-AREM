@@ -4,7 +4,7 @@
 Samuel Espitia Cruz
 
 ## 💼 Rol en el equipo
-Mi rol principal dentro del proyecto arquitectónico fue analista del negocio y responsable de gran parte del desarrollo del flujo de automatización. Me enfoqué en comprender a profundidad el proceso del área de gestión de bienes y servicios de la Universidad de La Sabana, identificando los puntos de dolor y proponiendo soluciones. Además, lideré la investigación, exploración y configuración de distintas herramientas que podían apoyar la solución, siendo Power Automate la tecnología clave utilizada para reducir actividades repetitivas y estructurar mejor la información. Junto con mi equipo, participé activamente en la elaboración de las vistas arquitectónicas, asegurando que reflejaran de manera coherente tanto la situación actual como la propuesta futura.
+Mi rol principal dentro del proyecto arquitectónico fue analista del negocio y responsable de gran parte del desarrollo del flujo de automatización. Me enfoqué en comprender a profundidad el proceso del área de gestión de bienes y servicios de la Universidad de La Sabana, identificando los puntos de dolor y proponiendo soluciones. Además, lideré la investigación, exploración y configuración de distintas herramientas que podían apoyar la solución. Junto con mi equipo, participé activamente en la elaboración de las vistas arquitectónicas, asegurando que reflejaran de manera coherente tanto la situación actual como la propuesta futura.
 
 ## 🎓 Aprendizajes Clave
 
